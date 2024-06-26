@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Blog Project
+## About Ecommerce project
 - Description : this is Ecommerce project Order products online
 
 - features & packages : Laravel Breeze _  mcamara/laravel-localization _ laravel/tinker _  laravel/telescope
