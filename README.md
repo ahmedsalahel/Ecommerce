@@ -7,13 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-About Ecommerce project
+## About Blog Project
+- Description : this is Ecommerce project Order products online
 
--Description : this is Ecommerce project Order products online
+- features & packages : Laravel Breeze _  mcamara/laravel-localization _ laravel/tinker _  laravel/telescope
 
--features & packages : Laravel Breeze _  mcamara/laravel-localization _ laravel/tinker _  laravel/telescope
 
-About Laravel
+## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
